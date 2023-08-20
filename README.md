@@ -11,11 +11,11 @@
 
  1. Enter the color code in the Entry single-line input box.
  2. Press the "CHANGE COLOR" button to update the color.
- 3. i.   You will see the background color change to the code you entered ~
+ 3.   i.   You will see the background color change to the code you entered ~
     
-    ii.  The Label tag will display its color code ~
+      ii.  The Label tag will display its color code ~
     
-    iii. With the text color being the complementary color of the color code ~
+      iii. With the text color being the complementary color of the color code ~
 
 ══════════════
 
