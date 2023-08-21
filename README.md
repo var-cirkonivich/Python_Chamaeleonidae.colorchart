@@ -1,3 +1,8 @@
+### (：**For details, please refer to the latest version on the right!** 
+
+
+
+══════════════
 # Introduction：
 
 - This is an useless program to display the color corresponding to the color code.
@@ -16,6 +21,10 @@
       Ⅱ.  The Label tag will display its color code ~
     
       Ⅲ. With the text color being the complementary color of the color code ~
+
+- **Random color change**
+ 1. Press the "RANDOM COLOR" button to update the color.
+ 2. The system will automatically generate a random color for you, and perform the same color-changing action as described above ~
 
 ══════════════
 
